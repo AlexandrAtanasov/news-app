@@ -1,6 +1,11 @@
 This project has been assembled for educational purposes, by [tutorial](https://medium.com/@onesinus231/build-simple-news-app-using-next-js-react-bootstrap-af10d76d3486).
 
-To get a news object, you need the API key for newsapi.org. Place the key in /helpers/APIKEY.js (const key = `<your key>`; export default key).
+To get a news object, you need the API key for newsapi.org. Place the key in `/helpers/APIKEY.js`:
+
+```bash
+const key = <your key>
+export default key
+```
 
 Getting Started:
 ```bash
